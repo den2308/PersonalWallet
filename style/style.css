@@ -1,0 +1,63 @@
+body{
+    background-color: #f6f6f6
+}
+a{
+    color: white
+}
+.navbar{
+ background-color: #CCB022
+}
+.addSpending{
+    text-align: center;
+    min-width: 100%;
+    min-height: 100%
+}
+.btn-success{
+    width: 100% 
+}
+
+/*menu button style
+ ;
+*/
+.dropbtn {
+   background-color: #CCB022;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #CCB022;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #CCB022}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #CCB022;
+}
+
+/* finish menu btn style*/
+
