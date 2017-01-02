@@ -12,8 +12,7 @@ Spending.attachSchema(new SimpleSchema({
 		min:0
 	},
 	createdBy: {
-    type: String,
-    autoValue:function(){ return this.userId }
+    type: String
     }	
 
 }));
