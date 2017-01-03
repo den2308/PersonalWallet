@@ -33,7 +33,7 @@ HomeLayout = React.createClass({
                                         <i className="fa fa-bars" aria-hidden="true">Menu</i>     
                                         </button>
                                         <div className="dropdown-content">
-                                        <a href="/wallets">Wallets</a>
+                                        <a href="/wallets">Wallet</a>
                                         <a href="/spendList">Spending</a>
                                         </div>
                                     </div>
